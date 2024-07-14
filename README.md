@@ -1,13 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wons%20Repository&fontSize=60)
-
-
-## Hi there 👋
-
-Welcome to my page😍‼️
-<br>
-I'm Jung won, who wants to become a <b>backend developer</b>.
-
-
 ### ⚒ My Tech Stack
 
 #### ⭐️ used as the main
